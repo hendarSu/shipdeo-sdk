@@ -1,0 +1,25 @@
+{
+  "name": "shipdeo-sdk",
+  "version": "1.0.0",
+  "description": "\"The module for integration shipdeo API\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hendarSu/shipdeo-sdk.git"
+  },
+  "keywords": [
+    "shipdeo",
+    "shipping",
+    "expedition",
+    "omni-channel"
+  ],
+  "author": "Hendar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hendarSu/shipdeo-sdk/issues"
+  },
+  "homepage": "https://github.com/hendarSu/shipdeo-sdk#readme"
+}
