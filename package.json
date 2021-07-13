@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/hendarSu/shipdeo-sdk/issues"
   },
-  "homepage": "https://github.com/hendarSu/shipdeo-sdk#readme"
+  "homepage": "https://github.com/hendarSu/shipdeo-sdk#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
